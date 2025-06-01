@@ -1,0 +1,10 @@
+com\artgallery\artist_management_service\domain\dao\ArtistDao.class
+com\artgallery\artist_management_service\config\SecurityConfig.class
+com\artgallery\artist_management_service\ArtistManagementServiceApplication.class
+com\artgallery\artist_management_service\service\ArtistServiceImpl.class
+com\artgallery\artist_management_service\controller\ArtistController.class
+com\artgallery\artist_management_service\repository\ArtistRepository.class
+com\artgallery\artist_management_service\domain\dao\ArtistDaoImpl.class
+com\artgallery\artist_management_service\dto\ArtistDTO.class
+com\artgallery\artist_management_service\service\ArtistService.class
+com\artgallery\artist_management_service\domain\Artist.class
